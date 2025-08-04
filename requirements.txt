@@ -1,5 +1,6 @@
 # 🐍 Core requirements
 cryptography==42.0.5
+pycryptodome==3.23.0
 numpy==1.26.4
 pillow==10.2.0
 
