@@ -1,0 +1,19 @@
+# 🐍 Core requirements
+cryptography==42.0.5
+numpy==1.26.4
+pillow==10.2.0
+
+# 📸 For face detection (OpenCV)
+opencv-python==4.9.0.80
+
+# 🧠 For AI log analyzer
+scikit-learn==1.5.0
+pandas==2.2.2
+
+# 🧪 Optional: Testing
+pytest==8.2.2
+unittest2==1.1.0
+
+# 📦 CLI & utilities
+rich==13.7.1
+colorama==0.4.6
