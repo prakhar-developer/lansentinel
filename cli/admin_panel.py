@@ -33,7 +33,7 @@ def print_menu():
     print("0. Exit")
     print("========================================")
 
-def main():
+def run_admin_cli():
     while True:
         print_menu()
         choice = input("Enter choice: ").strip()
@@ -60,6 +60,3 @@ def main():
             break
         else:
             print("Invalid option. Try again.")
-
-if __name__ == "__main__":
-    main()

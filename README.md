@@ -73,6 +73,7 @@ lansentinel/
 ```
 ⚙️ Setup & Run
 🔧 Prerequisites
+
 Python 3.11+
 
 Docker (optional)
